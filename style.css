@@ -1,3 +1,59 @@
-body{
+
+.cabecalho{
+    width: 1330px;
+    height: auto;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 2px;
     background-color: aliceblue;
+    text-align: center;
+    display: inline-block;
+}
+
+form{
+    display: inline-block;
+}
+
+.card{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    max-width: 500px;
+    max-height: 100%;
+    font-size: small;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nota{
+    width: 1300px;
+    height: auto;
+    margin-left: 400px;
+    padding: 2px;
+    background-color: write;
+    text-align: justify;
+    justify-content: center;
+    display: inline-block;
+}
+
+.duvidas{
+    width: 1300px;
+    height: auto;
+    margin-left: 400px;
+    padding: 2px;
+    background-color: write;
+    text-align: justify;
+    justify-content: center;
+    display: inline-block;
+}
+
+.rodape{
+    width: 600px;
+    height: auto;
+    margin-left: 50px;
+    padding: 2px;
+    background-color: write;
+    color: green;
+    text-align: justify;
+    justify-content:flex-end;
+    display: inline-flex;
 }
