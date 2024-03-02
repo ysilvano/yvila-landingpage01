@@ -41,6 +41,7 @@ form{
     margin-left: 400px;
     padding: 2px;
     background-color: write;
+    
     text-align: justify;
     justify-content: center;
     display: inline-block;
@@ -53,7 +54,7 @@ form{
     padding: 2px;
     background-color: write;
     color: green;
-    text-align: justify;
-    justify-content:flex-end;
+    text-align:justify;
+    justify-content:right;
     display: inline-flex;
 }
